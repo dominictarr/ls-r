@@ -1,0 +1,15 @@
+{ "name": "ls-r"
+, "version": "0.1.0"
+, "description": "recursive ls for node"
+, "keywords": ["find", "search", "ls", "recursive", "find"]
+, "homepage": "http://github.com/dominictarr/ls-r"
+, "repository": 
+  { "type": "git"
+  , "url": "https://github.com/dominictarr/ls-r.git" }
+, "dependencies": {
+    "ctrlflow": "~4.1" 
+  , "d-utils": "~2.3" 
+  , "optimist": "0.2" 
+  }
+, "author": "Dominic Tarr <dominic.tarr@gmail.com> (http://bit.ly/dominictarr)"
+, "scripts": { "test": "meta-test test/*.js" } }
