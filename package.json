@@ -1,5 +1,5 @@
 { "name": "ls-r"
-, "version": "0.1.0"
+, "version": "0.2.0"
 , "description": "recursive ls for node"
 , "keywords": ["find", "search", "ls", "recursive", "find"]
 , "homepage": "http://github.com/dominictarr/ls-r"
